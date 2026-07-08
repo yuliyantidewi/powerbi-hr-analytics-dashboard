@@ -133,10 +133,10 @@ powerbi-hr-analytics-dashboard
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Yuliyanti Dewi Lestari**
 
 Fresh Graduate in Mathematics passionate about **Data Analytics**, **Business Intelligence**, and **Data Visualization**.
 
-📌 Built as part of my Data Analytics Portfolio.
+Built as part of my Data Analytics Portfolio.
