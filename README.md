@@ -116,20 +116,11 @@ The dataset contains employee information including:
 
 ---
 
-# Repository Structure
+## Dashboard Highlights
 
-```text
-powerbi-hr-analytics-dashboard
-│
-├── README.md
-├── HR-Analytics-Dashboard.pbix
-├── HR-Analytics-Dashboard.pdf
-├── IBM-HR-Employee-Attrition.csv
-├── cover.png
-├── page1.jpg
-├── page2.jpg
-└── page3.jpg
-```
+- Executive Overview
+- Workforce Demographics
+- Employee Attrition Analysis
 
 ---
 
