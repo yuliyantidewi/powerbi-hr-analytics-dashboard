@@ -47,7 +47,17 @@ The dataset contains employee information including:
 - Data Visualization
 
 ---
+##  Skills Demonstrated
 
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- HR Analytics
+
+---
 # Dashboard Pages
 
 ## Page 1 — Executive Overview
@@ -116,6 +126,11 @@ The dataset contains employee information including:
 
 ---
 
+## Project Outcome
+
+This dashboard provides HR teams with an interactive tool to monitor workforce demographics, identify employee attrition patterns, and support strategic HR decision-making through data-driven insights.
+
+---
 ## Dashboard Highlights
 
 - Executive Overview
